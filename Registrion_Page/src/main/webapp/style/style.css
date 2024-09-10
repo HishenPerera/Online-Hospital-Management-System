@@ -1,0 +1,51 @@
+@charset "ISO-8859-1";
+body{
+	margin: 0px;
+	padding: 0px;
+	color: black;
+	
+	background-size: cover;
+	background-repeat: no-repeat;
+	background: url(../images/bbb.jpg);
+	
+}
+.text-primary{
+	font-size: 40px;
+	color:gainsboro;
+}
+.btn{
+	background-color: rgb(238, 223, 115);
+  border: 1px solid black;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  font-size: 18px;
+  margin: 2px 1.5px;
+  margin-left: 25px;
+  border-radius: 20px;
+  padding: 2px; 
+  width: 100px;
+  height: 30px;
+	
+}
+.button{
+	background-color: rgb(238, 223, 115);
+  border: 1px solid black;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  font-size: 12px;
+  margin: 2px 1.5px;
+  margin-left: 40px;
+  border-radius: 20px;
+  padding: 2px; 
+  width: 100px;
+  height: 30px;
+	
+	
+}
+
+.reg{
+	color:black;
+	background-color:rgb(234, 189, 11);
+	
+}
+
