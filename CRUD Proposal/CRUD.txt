@@ -1,0 +1,3 @@
+Doctor CRUD
+Patient CRUD
+Pharmachist CRUD
