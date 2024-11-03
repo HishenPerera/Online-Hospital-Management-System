@@ -24,22 +24,22 @@
 <tr border="none">
 
 <td width="50%" align="center">
-  <img src="https://github.com/HishenPerera/Online-Hospital-Management-System/blob/Main-Branch/Project%20Details/Register.png" />
+  <img src="https://github.com/HishenPerera/Online-Hospital-Management-System/blob/Main-Branch/Project%20Details/User1.png" />
 </td>
 
 <td width="50%" align="center">
-  <img src="https://github.com/HishenPerera/Online-Hospital-Management-System/blob/Main-Branch/Project%20Details/Register.png" />
+  <img src="https://github.com/HishenPerera/Online-Hospital-Management-System/blob/Main-Branch/Project%20Details/User2.png" />
 </td>
 </tr>
 
 <tr border="none">
 
 <td width="50%" align="center">
-  <img src="https://github.com/HishenPerera/Online-Hospital-Management-System/blob/Main-Branch/Project%20Details/Register.png" />
+  <img src="https://github.com/HishenPerera/Online-Hospital-Management-System/blob/Main-Branch/Project%20Details/User3.png" />
 </td>
 
 <td width="50%" align="center">
-  <img src="https://github.com/HishenPerera/Online-Hospital-Management-System/blob/Main-Branch/Project%20Details/Register.png" />
+  <img src="https://github.com/HishenPerera/Online-Hospital-Management-System/blob/Main-Branch/Project%20Details/User4.png" />
 </td>
 </tr>
 </table>
