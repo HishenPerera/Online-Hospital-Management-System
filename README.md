@@ -10,3 +10,11 @@
 ## Homepage
 
 ![image](https://github.com/HishenPerera/Online-Hospital-Management-System/blob/Main-Branch/Project%20Details/Homepage.png)
+
+## Login Page
+
+![image](https://github.com/HishenPerera/Online-Hospital-Management-System/blob/Main-Branch/Project%20Details/Login.png)
+
+## Register Page
+
+![image](https://github.com/HishenPerera/Online-Hospital-Management-System/blob/Main-Branch/Project%20Details/Register.png)
