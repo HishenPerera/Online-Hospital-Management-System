@@ -18,3 +18,28 @@
 ## Register Page
 
 ![image](https://github.com/HishenPerera/Online-Hospital-Management-System/blob/Main-Branch/Project%20Details/Register.png)
+
+## User Dashboard Pages
+<table align="center">
+<tr border="none">
+
+<td width="50%" align="center">
+  <img src="https://github.com/HishenPerera/Online-Hospital-Management-System/blob/Main-Branch/Project%20Details/Register.png" />
+</td>
+
+<td width="50%" align="center">
+  <img src="https://github.com/HishenPerera/Online-Hospital-Management-System/blob/Main-Branch/Project%20Details/Register.png" />
+</td>
+</tr>
+
+<tr border="none">
+
+<td width="50%" align="center">
+  <img src="https://github.com/HishenPerera/Online-Hospital-Management-System/blob/Main-Branch/Project%20Details/Register.png" />
+</td>
+
+<td width="50%" align="center">
+  <img src="https://github.com/HishenPerera/Online-Hospital-Management-System/blob/Main-Branch/Project%20Details/Register.png" />
+</td>
+</tr>
+</table>
