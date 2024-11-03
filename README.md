@@ -7,5 +7,6 @@
 - Server - Apache Tomcat v10.1
 - Database - MySQL Workbench
 
-Homepage
+## Homepage
+
 ![image](https://github.com/HishenPerera/Online-Hospital-Management-System/blob/Main-Branch/Project%20Details/Homepage.png)
