@@ -3,7 +3,7 @@
 
 # Topic - Online Hospital Management System
 
-- Developed using Java, HTML, CSS, JS & MYSQL
+- Developed using Java, HTML, CSS, Javascript & MySQL
 - Server - Apache Tomcat v10.1
 - Database - MySQL Workbench
 
