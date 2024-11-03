@@ -1,0 +1,23 @@
+a.sign-link {
+	/* Add some basic styling to the link */
+	text-decoration: none;
+	color: #337ab7;
+	/* A nice blue color */
+	transition: color 0.2s ease;
+	/* Add a smooth transition effect */
+
+	/* Add some hover effects */
+	&:hover {
+		color: #23527c;
+		/* A slightly darker blue on hover */
+		text-decoration: s;
+	}
+
+	/* Add some active state effects */
+	&:active {
+		color: #23527c;
+		/* Same color as hover */
+		box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+		/* Add a subtle shadow */
+	}
+}
