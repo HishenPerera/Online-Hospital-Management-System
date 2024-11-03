@@ -1,5 +1,5 @@
 # CurePlus Hospitals
-This Y2S1 IT2030 - Object Oriented Programming Module Group Project
+- This Y2S1 IT2030 - Object Oriented Programming Module Group Project
 
 # Topic - Online Hospital Management System
 
