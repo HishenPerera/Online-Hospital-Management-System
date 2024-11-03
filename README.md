@@ -19,7 +19,7 @@
 
 ![image](https://github.com/HishenPerera/Online-Hospital-Management-System/blob/Main-Branch/Project%20Details/Register.png)
 
-## User Dashboard Pages
+## Patient Dashboard Pages
 <table align="center">
 <tr border="none">
 
