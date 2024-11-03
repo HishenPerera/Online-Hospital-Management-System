@@ -1,7 +1,7 @@
 # CurePlus Hospitals
 - This Y2S1 IT2030 - Object Oriented Programming Module Group Project
 
-# Topic - Online Hospital Management System
+## Topic - Online Hospital Management System
 
 - Developed using Java
 - Server - Apache Tomcat v10.1
